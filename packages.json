@@ -1,0 +1,30 @@
+ [
+  {
+    "package": "dipsaus",
+    "url": "https://github.com/dipterix/dipsaus"
+  },
+  {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga"
+  },
+  {
+    "package": "spfda",
+    "url": "https://github.com/dipterix/spfda"
+  },
+  {
+    "package": "threeBrain",
+    "url": "https://github.com/dipterix/threeBrain"
+  },
+  {
+    "package": "lazyarray",
+    "url": "https://github.com/dipterix/lazyarray"
+  },
+  {
+    "package": "restbatch",
+    "url": "https://github.com/dipterix/restbatch"
+  },
+  {
+    "package": "filearray",
+    "url": "https://github.com/dipterix/filearray"
+  }
+]
