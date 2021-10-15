@@ -26,5 +26,9 @@
   {
     "package": "filearray",
     "url": "https://github.com/dipterix/filearray"
+  },
+  {
+    "package": "ravetools",
+    "url": "https://github.com/dipterix/ravetools"
   }
 ]
