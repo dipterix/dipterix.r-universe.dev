@@ -28,6 +28,10 @@
     "url": "https://github.com/dipterix/filearray"
   },
   {
+    "package": "raveio",
+    "url": "https://github.com/beauchamplab/raveio"
+  },
+  {
     "package": "ravetools",
     "url": "https://github.com/dipterix/ravetools"
   }
