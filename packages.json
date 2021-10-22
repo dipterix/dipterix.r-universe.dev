@@ -34,5 +34,9 @@
   {
     "package": "ravetools",
     "url": "https://github.com/dipterix/ravetools"
+  },
+  {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave"
   }
 ]
