@@ -21,6 +21,9 @@ Packages available are:
 * https://github.com/dipterix/threeBrain - CRAN
 * https://github.com/dipterix/lazyarray - CRAN
 * https://github.com/dipterix/spfda - CRAN
-* https://github.com/dipterix/filearray - About to go CRAN
+* https://github.com/dipterix/filearray - CRAN
+* https://github.com/beauchamplab/raveio - CRAN
+* https://github.com/beauchamplab/ravetools - About to go to CRAN
+* https://github.com/beauchamplab/rave
 * https://github.com/dipterix/rutabaga
 * https://github.com/dipterix/restbatch
