@@ -42,5 +42,9 @@
   {
     "package": "rave",
     "url": "https://github.com/beauchamplab/rave"
+  },
+  {
+    "package": "shidashi",
+    "url": "https://github.com/dipterix/shidashi"
   }
 ]
