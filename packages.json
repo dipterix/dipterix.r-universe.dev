@@ -33,7 +33,8 @@
   },
   {
     "package": "raveio",
-    "url": "https://github.com/beauchamplab/raveio"
+    "url": "https://github.com/beauchamplab/raveio",
+    "branch" : "nightly-dev"
   },
   {
     "package": "ravetools",
