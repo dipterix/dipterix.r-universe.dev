@@ -13,7 +13,8 @@
   },
   {
     "package": "threeBrain",
-    "url": "https://github.com/dipterix/threeBrain"
+    "url": "https://github.com/dipterix/threeBrain",
+    "branch" : "nightly-dev"
   },
   {
     "package": "lazyarray",
