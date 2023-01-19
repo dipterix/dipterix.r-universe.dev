@@ -17,10 +17,6 @@
     "branch" : "nightly-dev"
   },
   {
-    "package": "lazyarray",
-    "url": "https://github.com/dipterix/lazyarray"
-  },
-  {
     "package": "restbatch",
     "url": "https://github.com/dipterix/restbatch"
   },
