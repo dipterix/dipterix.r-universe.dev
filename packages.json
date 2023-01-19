@@ -48,5 +48,9 @@
   {
     "package": "ravemanager",
     "url": "https://github.com/dipterix/ravemanager"
+  },
+  {
+    "package": "lazyarray",
+    "url": "https://github.com/dipterix/lazyarray"
   }
 ]
