@@ -1,5 +1,9 @@
  [
   {
+    "package": "readNSx",
+    "url": "https://github.com/dipterix/readNSx"
+  },
+  {
     "package": "dipsaus",
     "url": "https://github.com/dipterix/dipsaus"
   },
