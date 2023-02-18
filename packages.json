@@ -56,9 +56,5 @@
   {
     "package": "lazyarray",
     "url": "https://github.com/dipterix/lazyarray"
-  },
-  {
-    "package": "Rvcg",
-    "url": "https://github.com/cran/Rvcg"
   }
 ]
