@@ -17,8 +17,7 @@
   },
   {
     "package": "threeBrain",
-    "url": "https://github.com/dipterix/threeBrain",
-    "branch" : "nightly-dev"
+    "url": "https://github.com/dipterix/threeBrain"
   },
   {
     "package": "restbatch",
@@ -26,7 +25,8 @@
   },
   {
     "package": "filearray",
-    "url": "https://github.com/dipterix/filearray"
+    "url": "https://github.com/dipterix/filearray",
+    "branch" : "tinythread"
   },
   {
     "package": "rpymat",
