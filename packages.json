@@ -56,5 +56,9 @@
   {
     "package": "lazyarray",
     "url": "https://github.com/dipterix/lazyarray"
+  },
+  {
+    "package": "ITKR",
+    "url" : "https://github.com/stnava/ITKR.git"
   }
 ]
