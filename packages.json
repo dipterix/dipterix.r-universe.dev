@@ -60,5 +60,9 @@
   {
     "package": "ITKR",
     "url" : "https://github.com/stnava/ITKR"
+  },
+  {
+    "package": "ANTsRCore",
+    "url" : "https://github.com/ANTsX/ANTsRCore"
   }
 ]
