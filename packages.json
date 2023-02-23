@@ -58,7 +58,7 @@
     "url": "https://github.com/dipterix/lazyarray"
   },
   {
-    "package": "ITKR2",
-    "url" : "https://github.com/dipterix/ITKR2"
+    "package": "ITKR",
+    "url" : "https://github.com/stnava/ITKR"
   }
 ]
