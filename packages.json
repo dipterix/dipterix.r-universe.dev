@@ -68,5 +68,9 @@
   {
     "package": "ANTsRCore",
     "url" : "https://github.com/ANTsX/ANTsRCore"
+  },
+  {
+    "package": "ANTsR",
+    "url" : "https://github.com/ANTsX/ANTsR"
   }
 ]
