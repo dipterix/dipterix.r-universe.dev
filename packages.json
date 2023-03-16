@@ -34,8 +34,7 @@
   },
   {
     "package": "raveio",
-    "url": "https://github.com/beauchamplab/raveio",
-    "branch" : "nightly-dev"
+    "url": "https://github.com/beauchamplab/raveio"
   },
   {
     "package": "ravetools",
@@ -47,7 +46,13 @@
   },
   {
     "package": "shidashi",
-    "url": "https://github.com/dipterix/shidashi"
+    "url": "https://github.com/dipterix/shidashi",
+    "branch" : "nightly-dev"
+  },
+  {
+    "package": "ravedash",
+    "url": "https://github.com/dipterix/ravedash",
+    "branch" : "nightly-dev"
   },
   {
     "package": "rpyANTs",
