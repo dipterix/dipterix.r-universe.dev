@@ -20,13 +20,8 @@
     "url": "https://github.com/dipterix/threeBrain"
   },
   {
-    "package": "restbatch",
-    "url": "https://github.com/dipterix/restbatch"
-  },
-  {
     "package": "filearray",
-    "url": "https://github.com/dipterix/filearray",
-    "branch" : "lazyeval"
+    "url": "https://github.com/dipterix/filearray"
   },
   {
     "package": "rpymat",
@@ -38,7 +33,8 @@
   },
   {
     "package": "ravetools",
-    "url": "https://github.com/dipterix/ravetools"
+    "url": "https://github.com/dipterix/ravetools",
+    "branch" : "vcg"
   },
   {
     "package": "rave",
@@ -46,13 +42,11 @@
   },
   {
     "package": "shidashi",
-    "url": "https://github.com/dipterix/shidashi",
-    "branch" : "nightly-dev"
+    "url": "https://github.com/dipterix/shidashi"
   },
   {
     "package": "ravedash",
-    "url": "https://github.com/dipterix/ravedash",
-    "branch" : "nightly-dev"
+    "url": "https://github.com/dipterix/ravedash"
   },
   {
     "package": "rpyANTs",
@@ -63,7 +57,12 @@
     "url": "https://github.com/dipterix/ravemanager"
   },
   {
-    "package": "lazyarray",
-    "url": "https://github.com/dipterix/lazyarray"
+    "package": "rnwb",
+    "url": "https://github.com/dipterix/rnwb"
+  },
+  {
+    "package": "ravebuiltins",
+    "url": "https://github.com/beauchamplab/ravebuiltins",
+    "branch": "migrate2"
   }
 ]
