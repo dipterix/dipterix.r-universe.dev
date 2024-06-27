@@ -33,8 +33,7 @@
   },
   {
     "package": "ravetools",
-    "url": "https://github.com/dipterix/ravetools",
-    "branch" : "vcg"
+    "url": "https://github.com/dipterix/ravetools"
   },
   {
     "package": "rave",
