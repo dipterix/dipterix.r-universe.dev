@@ -56,6 +56,10 @@
     "url": "https://github.com/dipterix/ravemanager"
   },
   {
+    "package": "ieegio",
+    "url": "https://github.com/dipterix/ieegio"
+  },
+  {
     "package": "rnwb",
     "url": "https://github.com/dipterix/rnwb"
   },
