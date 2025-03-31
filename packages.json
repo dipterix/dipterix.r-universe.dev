@@ -28,6 +28,14 @@
     "url": "https://github.com/dipterix/rpymat"
   },
   {
+    "package": "ravepipeline",
+    "url": "https://github.com/dipterix/ravepipeline"
+  },
+  {
+    "package": "bidsr",
+    "url": "https://github.com/dipterix/bidsr"
+  },
+  {
     "package": "raveio",
     "url": "https://github.com/beauchamplab/raveio"
   },
